@@ -131,9 +131,9 @@ Possible future improvements include:
 
 **MO SUFIYAN**
 
-GitHub: [Your GitHub Profile](https://github.com/mo7071/Python-Todo-App.git)
+GitHub: [Your GitHub Profile] (https://github.com/mo7071/Python-Todo-App.git)
 
-LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/mo-sufiyan-bb9a85215?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+LinkedIn: [Your LinkedIn Profile] (https://www.linkedin.com/in/mo-sufiyan-bb9a85215?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 ## License
 
